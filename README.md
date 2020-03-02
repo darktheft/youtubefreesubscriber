@@ -1,6 +1,10 @@
 # youtubefreesubscriber
 Hi, folks this is @darktheft follow me and subscribe https://www.youtube.com/channel/UCdbUomS4yFXN9D3_ZLtJJUg
 
+  Subscribe #5 , I have started  a complete courser on android Development on this channel 
+https://www.youtube.com/playlist?list=PL0Ku55A4j4AcN-0aCxuxEw_AByk06yIHM
+  Make sure to join if you want to learn android development from scrach/ Starting to very end!  thanks :)
+
 # Follow me on [Github](https://github.com/darktheft) 
 # Subscribe me on [Youtube](https://www.youtube.com/channel/UCdbUomS4yFXN9D3_ZLtJJUg)
 ![youtube](https://github.com/darktheft/FlashLogin/blob/master/donation.png)
